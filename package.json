@@ -1,0 +1,24 @@
+{
+  "name": "sdproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+ "scripts": {
+  "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayyyyy12229/CampusMarket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kayyyyy12229/CampusMarket/issues"
+  },
+  "homepage": "https://github.com/Kayyyyy12229/CampusMarket#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
